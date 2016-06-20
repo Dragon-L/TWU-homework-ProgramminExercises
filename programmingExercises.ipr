@@ -53,7 +53,7 @@
       <module fileurl="file://$PROJECT_DIR$/programmingExercises.iml" filepath="$PROJECT_DIR$/programmingExercises.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="SvnBranchConfigurationManager">
@@ -61,6 +61,21 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="com.mycila.testing.plugins:mycila-testing-mockito:1.1" type="repository">
+      <properties maven-id="com.mycila.testing.plugins:mycila-testing-mockito:1.1" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/mycila/testing/plugins/mycila-testing-mockito/1.1/mycila-testing-mockito-1.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.6/mockito-core-1.6.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/1.0/objenesis-1.0.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/mycila/testing/mycila-testing-api/1.1/mycila-testing-api-1.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/mycila/mycila-plugin/1.4/mycila-plugin-1.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
   <component name="masterDetails">
     <states>
